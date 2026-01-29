@@ -12,7 +12,7 @@ function secondLargestFromString(str) {
       second = num;
     }
   }
-
+////gdyvvc
   return second;
 }
 
